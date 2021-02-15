@@ -1,0 +1,21 @@
+body{
+	background-color: lightgray;
+	margin: 10px;
+}
+a{
+	font-size: 20px;
+}
+h1{
+	font-size: 25px;
+}
+h2{
+	font-size: 22.5px;
+}
+p{
+	font-size: 17.5px;
+}
+img{
+	width: 400px;
+	float: right;
+	margin: 35px;
+}
