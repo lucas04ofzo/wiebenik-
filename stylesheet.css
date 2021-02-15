@@ -6,7 +6,7 @@ a{
 	font-size: 20px;
 }
 h1{
-	font-size: 25px;
+	font-size: 50px;
 }
 h2{
 	font-size: 22.5px;
@@ -17,5 +17,8 @@ p{
 img{
 	width: 400px;
 	float: right;
-	margin: 35px;
+	margin: 50px;
+}
+#intro{
+	font-size: 30px;
 }
